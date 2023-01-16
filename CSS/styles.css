@@ -63,7 +63,12 @@ body{
 
     color: #FFFF;
     margin-left: 80%;
-    top: 0;
+    margin-top: -10px;
+    /* margin-top: 0px; */
 
+}
+.subscribe{
+
+    color: cadetblue;
 }
 
