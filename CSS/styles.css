@@ -1,0 +1,71 @@
+body{
+
+     background-color: darkcyan; 
+    background: url("https://i.pinimg.com/236x/2d/86/83/2d86832b3efac73d81be93e9264f2255.jpg") no-repeat center ;
+    background-size:cover ;
+    position: relative;
+
+
+}
+.heading{
+
+    color: #FFFF;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+.heading2{
+    color: #FFFF;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+
+
+}
+
+.slogan{
+
+    color: #FFFF;
+    font-style: italic;
+    text-align: center;
+
+
+}
+.line1{
+
+    margin: auto;
+    width: 20%;
+
+}
+.line2{
+
+    margin: auto;
+    width: 17%;
+
+}
+
+.line3{
+
+    margin: auto;
+    width: 14%;
+
+}
+.nav-bar{
+
+    color: #FFFF;
+    left: 0;
+
+}
+
+.right-bar{
+
+    color: #FFFF;
+    /* margin-right: 500px; */
+
+
+
+
+
+}
