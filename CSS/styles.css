@@ -7,6 +7,23 @@ body{
 
 
 }
+
+.flex-container1{
+    display: flex;
+    align-items: flex-start;
+
+
+
+}
+
+.flex-container2{
+    display: block;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
 .heading{
 
     color: #FFFF;
@@ -16,6 +33,7 @@ body{
     margin-top: 200px;
 
 }
+
 
 .heading2{
     color: #FFFF;
@@ -52,7 +70,7 @@ body{
     width: 14%;
 
 }
-.nav-bar{
+.left-bar{
 
     color: #FFFF;
     left: 0;
@@ -62,13 +80,15 @@ body{
 .right-bar{
 
     color: #FFFF;
-    margin-left: 80%;
-    margin-top: -10px;
-    /* margin-top: 0px; */
+    margin-left: 65%;
+    /* margin-top: -10px;*/
+    margin-top: 0px; 
 
 }
 .subscribe{
 
-    color: cadetblue;
+    color:#FFFF;
+    
 }
+
 
